@@ -36,5 +36,8 @@ Q: What product sold the most? Why do you think it sold the most?
 ## Data visualisation
 
 A one-page report to answer management's questions : [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMjc4NmFkNDQtYTZhZC00ZTkyLTk3YWMtYTk5ZTUwMmY1MmMxIiwidCI6ImFkMDI4YTY2LTBkNzctNGRmMC04NjVhLWZlNmQxNTRlOTE2NCJ9)
-
 A three page report to explore the dataset : [Power BI report](https://app.powerbi.com/view?r=eyJrIjoiOWRmMmVhYjktYjZkYS00NTgyLWEzODAtNDI0MDNmNTI4NDAzIiwidCI6ImFkMDI4YTY2LTBkNzctNGRmMC04NjVhLWZlNmQxNTRlOTE2NCJ9&pageName=ReportSection6696a30a5c26e5e45c58)
+
+<p align="center">
+  <img src="https://github.com/thomasdaille/Image-Library/blob/master/product_sales_report.png" alt="Three page report on product sales">
+</p>
